@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/basic-react-leaflet-example/static/css/main.69c85f7d.chunk.css",
+    "main.js": "/basic-react-leaflet-example/static/js/main.59c1bdea.chunk.js",
+    "main.js.map": "/basic-react-leaflet-example/static/js/main.59c1bdea.chunk.js.map",
+    "runtime-main.js": "/basic-react-leaflet-example/static/js/runtime-main.afa3821d.js",
+    "runtime-main.js.map": "/basic-react-leaflet-example/static/js/runtime-main.afa3821d.js.map",
+    "static/css/2.098bc035.chunk.css": "/basic-react-leaflet-example/static/css/2.098bc035.chunk.css",
+    "static/js/2.9d24c391.chunk.js": "/basic-react-leaflet-example/static/js/2.9d24c391.chunk.js",
+    "static/js/2.9d24c391.chunk.js.map": "/basic-react-leaflet-example/static/js/2.9d24c391.chunk.js.map",
+    "index.html": "/basic-react-leaflet-example/index.html",
+    "precache-manifest.ed71efe0c38c0a3e49a676e5538c0e47.js": "/basic-react-leaflet-example/precache-manifest.ed71efe0c38c0a3e49a676e5538c0e47.js",
+    "service-worker.js": "/basic-react-leaflet-example/service-worker.js",
+    "static/css/2.098bc035.chunk.css.map": "/basic-react-leaflet-example/static/css/2.098bc035.chunk.css.map",
+    "static/css/main.69c85f7d.chunk.css.map": "/basic-react-leaflet-example/static/css/main.69c85f7d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afa3821d.js",
+    "static/css/2.098bc035.chunk.css",
+    "static/js/2.9d24c391.chunk.js",
+    "static/css/main.69c85f7d.chunk.css",
+    "static/js/main.59c1bdea.chunk.js"
+  ]
+}
